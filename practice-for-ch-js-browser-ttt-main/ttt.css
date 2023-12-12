@@ -19,3 +19,11 @@ li:hover {
     background-color: #b7cdd8;
     cursor: pointer;
 }
+
+.move {
+    background-color: #662d6f;
+}
+
+.move:hover {
+    background-color: #9b79a0;
+}
